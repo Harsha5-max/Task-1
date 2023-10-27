@@ -13,12 +13,17 @@ Implement effective risk measurement strategies for evaluating the investment po
 
 Tools and Technologies Used:
 
-Python
-Pandas
-Matplotlib
-Seaborn
-yfinance
-Long Short Term Memory (LSTM) networks
+-> Python,
+
+-> Pandas,
+
+-> Matplotlib,
+
+->Seaborn,
+
+-> yfinance,
+
+-> Long Short Term Memory (LSTM) networks.
 
 Conclusion:
 
